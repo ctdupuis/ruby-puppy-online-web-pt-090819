@@ -21,7 +21,7 @@ class Dog
     # @@all.each do |doggo|
       binding.pry
       # puts doggo
-    end
+    # end
   end
   
   def self.clear_all
